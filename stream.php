@@ -1,7 +1,8 @@
 <?php
 /**
  *Plugin Name: BICOCI-Bitacora
- *Description: Plugin para la implementacion de modulo de bitacora
+ *Plugin URI: http://bicoci.site88.net
+ *Description: módulo de bitacora de bicoci
  *Version: 1.0
  *Author: Alumno PERA
  *Author URI: http://bicoci.site88.net
